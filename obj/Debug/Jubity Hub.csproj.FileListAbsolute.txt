@@ -1,0 +1,10 @@
+C:\Users\table\source\repos\Jubity Hub\Jubity Hub\bin\Debug\Jubity Hub.exe.config
+C:\Users\table\source\repos\Jubity Hub\Jubity Hub\bin\Debug\Jubity Hub.exe
+C:\Users\table\source\repos\Jubity Hub\Jubity Hub\bin\Debug\Jubity Hub.pdb
+C:\Users\table\source\repos\Jubity Hub\Jubity Hub\obj\Debug\Jubity Hub.csprojAssemblyReference.cache
+C:\Users\table\source\repos\Jubity Hub\Jubity Hub\obj\Debug\Jubity_Hub.Form1.resources
+C:\Users\table\source\repos\Jubity Hub\Jubity Hub\obj\Debug\Jubity_Hub.Properties.Resources.resources
+C:\Users\table\source\repos\Jubity Hub\Jubity Hub\obj\Debug\Jubity Hub.csproj.GenerateResource.cache
+C:\Users\table\source\repos\Jubity Hub\Jubity Hub\obj\Debug\Jubity Hub.csproj.CoreCompileInputs.cache
+C:\Users\table\source\repos\Jubity Hub\Jubity Hub\obj\Debug\Jubity Hub.exe
+C:\Users\table\source\repos\Jubity Hub\Jubity Hub\obj\Debug\Jubity Hub.pdb
